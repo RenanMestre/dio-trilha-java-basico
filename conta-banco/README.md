@@ -1,18 +1,17 @@
-## Getting Started
+## Sobre o sistema
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, seja bem vindo ao sistema de banco simples e básico, tem como princípio ajudar o usuário a criar uma conta no banco. 
 
-## Folder Structure
+## Tecnologia e prática
 
-The workspace contains two folders by default, where:
+Nesse sistema foram usados apenas uma tecnologia que foi a linguagem de programação:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- **Java**: programação de variáveis e todo o corpo do sistema.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Foi levado em conta os padrões de comentários para facilitar a mim mesmo e aos demais programadores que quiserem ampliar mais o sistema. 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Segurança de software
 
-## Dependency Management
+Uma prática que foi adotada por mim foi na questão da segurança de software, eu requisitei apenas o primeiro e o sobrenome do usuário que está se cadastrando, dessa forma, quando o sistema mexer com tecnologias mais robustas em backend poderá estar mantendo os dados dos clientes em segurança sem o risco de um possível vazamento prejudicar os usuários.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Obrigado pela visita!
